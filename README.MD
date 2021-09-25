@@ -20,14 +20,6 @@ NOTE: you need to add the soil.h library in your library inorder to see the imag
 	
 	-light source and has been implemented well
 	-we have tried to put an image using external library called "SOIL" but unfortunately we have defined it but couldn't get a 	result and we don't know why. this is why we wanted to present so that you could show us about the new library called the 	"SOIL" if you might have time.
-
-			>>GRAPHICS DESIGNERS
-
-			*Kidus Mamuye ---------- ATR/6157/07
-			*Michael Mandefro ------ ATR/4255/07
-			*Hizkias Abrham -------- ATR/9733/07
-			*Silas Getachew -------- ATR/8744/07
-			*Amente Diriba --------- ATR//07
 	
 
 
